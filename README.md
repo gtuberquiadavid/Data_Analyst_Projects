@@ -1,1 +1,3 @@
 # Data_Analyst_Projects
+
+Instacart is a grocery delivery platform similar to Uber Eats and DoorDash. The provided dataset has been modified by reducing its size and introducing missing and duplicate values to facilitate analysis while maintaining the original data distribution. The task involves completing three steps, each with a clear introduction explaining the approach, along with explanatory paragraphs justifying the decisions made. Additionally, a conclusion summarizing the findings and choices should be written.
