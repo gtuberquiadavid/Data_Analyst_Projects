@@ -17,3 +17,5 @@ This repository showcases the process of analyzing and manipulating data with Py
 ---
 
 Stay tuned for more projects in data analysis, machine learning, and beyond! 🚀
+
+![Grocery Delivery](https://your-image-link-here.com/grocery-delivery-image.jpg)
